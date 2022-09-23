@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ecf96fe1cc7c4903859d99f1a6d425c
+guid: 91ba6fe606a2147ae987b3c9245c2966
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,43 +130,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fail3_0
+      name: FailUp_0
       rect:
         serializedVersion: 2
         x: 4
         y: 3
         width: 18
         height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 910233b0c2b4a48ba82f08abc5211e85
-      internalID: -1615090801
+      spriteID: d5e2cacbd262345bd87b8456be531513
+      internalID: -1013044834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fail3_1
+      name: FailUp_1
       rect:
         serializedVersion: 2
         x: 33
         y: 3
         width: 20
         height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ac424c0187c24641acebe65af4e1256
-      internalID: -820565629
+      spriteID: 6c5c7e7cabd7d46849f2d55763eaf415
+      internalID: -1746028090
       vertices: []
       indices: 
       edges: []
@@ -182,8 +182,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fail3_1: -820565629
-      Fail3_0: -1615090801
+      FailUp_1: -1746028090
+      FailUp_0: -1013044834
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

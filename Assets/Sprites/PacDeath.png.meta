@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ecf96fe1cc7c4903859d99f1a6d425c
+guid: 5f3bfc615ce1a48e6afdd1bf1633d061
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fail3_0
+      name: PacDeath_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 3
-        width: 18
-        height: 21
+        x: 5
+        y: 2
+        width: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,20 +144,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 910233b0c2b4a48ba82f08abc5211e85
-      internalID: -1615090801
+      spriteID: 46830f3721a224411887bf7e48ae1579
+      internalID: 2042221959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fail3_1
+      name: PacDeath_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 3
-        width: 20
-        height: 21
+        x: 37
+        y: 4
+        width: 15
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +165,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ac424c0187c24641acebe65af4e1256
-      internalID: -820565629
+      spriteID: 77cb06fb4551244cbbbf836b2b4262a8
+      internalID: 2057236218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacDeath_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44233a73f13f2437987c9a7ad69f9456
+      internalID: 602562883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacDeath_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 9
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ca624480db49bc8c17fcfe47b15e1
+      internalID: -102693100
       vertices: []
       indices: 
       edges: []
@@ -182,8 +224,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fail3_1: -820565629
-      Fail3_0: -1615090801
+      PacDeath_2: 602562883
+      PacDeath_1: 2057236218
+      PacDeath_0: 2042221959
+      PacDeath_3: -102693100
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
