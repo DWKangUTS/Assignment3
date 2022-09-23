@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3ecf96fe1cc7c4903859d99f1a6d425c
+guid: aee6d3b61f1364a708b584f8a0b85e3d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fail3_0
+      name: PacRight_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 3
-        width: 18
-        height: 21
+        x: 6
+        y: 2
+        width: 19
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,20 +144,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 910233b0c2b4a48ba82f08abc5211e85
-      internalID: -1615090801
+      spriteID: fc83e861bef024ddf81741b38fe7836b
+      internalID: 1968286947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fail3_1
+      name: PacRight_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 3
-        width: 20
-        height: 21
+        x: 41
+        y: 1
+        width: 10
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ac424c0187c24641acebe65af4e1256
-      internalID: -820565629
+      spriteID: ebbfc59f376bc4b1a8aa88601de0b216
+      internalID: 1176046670
       vertices: []
       indices: 
       edges: []
@@ -182,8 +182,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fail3_1: -820565629
-      Fail3_0: -1615090801
+      PacRight_1: 1176046670
+      PacRight_0: 1968286947
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
