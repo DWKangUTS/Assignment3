@@ -7,7 +7,7 @@ public class ScoreManager : MonoBehaviour
 {
     int score;
     float timeTaken;
-    public Text CurrentScore;
+    //public Text CurrentScore;
     public Text BestScore;
     public Text BestTime;
 
@@ -23,7 +23,7 @@ public class ScoreManager : MonoBehaviour
         BestScore.text = $"Best Score: {bestScore.ToString()}";
 
         bestTime = PlayerPrefs.GetFloat(timeName, bestTime);
-        BestTime.text = $"Current Best Time: {bestTime.ToString()}";
+        BestTime.text = "Current Best Time: 00:00:00";
     }
     
     void Start()
@@ -34,7 +34,7 @@ public class ScoreManager : MonoBehaviour
     public void GetScore()
     {
         score++;
-        CurrentScore.text = string.Format($"Score: {score}");
+        //CurrentScore.text = string.Format($"Score: {score}");
 
         if (score > bestScore)
         {
@@ -43,7 +43,7 @@ public class ScoreManager : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    /*void Update()
     {
         if (timerActive)
         {
@@ -61,5 +61,5 @@ public class ScoreManager : MonoBehaviour
 
             PlayerPrefs.SetFloat(timeName, timeTaken);
         }
-    }
+    }*/
 }

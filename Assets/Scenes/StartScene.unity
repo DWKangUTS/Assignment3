@@ -152,9 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c4d7e053a5f740b7a955e818bbda377, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentScore: {fileID: 0}
   BestScore: {fileID: 1382761762}
-  BestTime: {fileID: 0}
+  BestTime: {fileID: 648390400}
   timerActive: 1
 --- !u!224 &177098201
 RectTransform:
@@ -677,7 +676,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Current Best Time:  00:00:00'
+  m_Text: 'Current Best Time:  '
 --- !u!222 &648390401
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1203,7 +1202,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Best Score: 0'
+  m_Text: 'Best Score: '
 --- !u!222 &1382761763
 CanvasRenderer:
   m_ObjectHideFlags: 0
