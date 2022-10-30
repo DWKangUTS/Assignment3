@@ -49,7 +49,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 30
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 30, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -133,18 +133,18 @@ TextureImporter:
       name: ScaredState_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 1
         y: 4
-        width: 27
-        height: 25
+        width: 28
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37eb17c7caabd455d92c7758c0953883
+      spriteID: b9f2ee5407cf147599dab70abb0c347c
       internalID: 1661324598
       vertices: []
       indices: 
@@ -159,13 +159,13 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c2848931d39a4f94b21f7bd45f5d78a
+      spriteID: 98b2e09899ce04ef98fad81a975f4347
       internalID: -688602999
       vertices: []
       indices: 
@@ -175,7 +175,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
